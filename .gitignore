@@ -1,0 +1,26 @@
+# Python
+.env
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.venv/
+dist/
+*.egg-info/
+
+# Node
+node_modules/
+.next/
+.env.local
+*.env
+out/
+
+# DB
+database.db
+
+# OS
+.DS_Store
+Thumbs.db
